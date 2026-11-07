@@ -1,0 +1,575 @@
+{
+ "timezone_note": "Saatler UTC. Türkiye = UTC+3: hikâye 12:30, gönderi 19:00. 9 Kasım – 8 Aralık 2026.",
+ "items": [
+  {
+   "id": "day01-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-09T09:30:00Z",
+   "image": "media/stories/birsen_story_01.jpg",
+   "caption": "",
+   "topic": "Hikâye: Bugün 19:00 – Yeni bir hesap, yeni bir başlangıç."
+  },
+  {
+   "id": "day01-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-09T16:00:00Z",
+   "image": "media/posts/birsen_post_01.jpg",
+   "caption": "Merhaba, ben Birsen Demir. Sosyolog ve aile danışmanıyım.\n\nÇiftler, aileler ve bireylerle çalışırken ilişkiyi tek bir kişinin \"sorunu\" olarak görmüyorum. Bir ilişki, iki ya da daha fazla insanın birlikte kurduğu bir sistemdir. Değişim de çoğu zaman o sistemi birlikte görmekle başlar.\n\nBu sayfada her gün ilişkiler, aile içi iletişim ve kendini tanıma üzerine kısa notlar paylaşacağım. Kaydedin, ihtiyacı olan biriyle paylaşın.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #psikolojikdestek #istanbul #onlineterapi #sağlıklıilişkiler",
+   "topic": "Tanışma",
+   "alt_text": "Gülümseyen Birsen Demir'in portresi; üzerinde 'Birlikte düşünmeyi öğrenmek mümkün' yazıyor."
+  },
+  {
+   "id": "day02-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-10T09:30:00Z",
+   "image": "media/stories/birsen_story_02.jpg",
+   "caption": "",
+   "topic": "Hikâye: Size soruyoruz – Tartışırken en çok hangi cümle sizi yatıştırır?"
+  },
+  {
+   "id": "day02-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-10T16:00:00Z",
+   "image": "media/posts/birsen_post_02.jpg",
+   "caption": "Tartışmanın yönünü çoğu zaman konu değil, kullandığımız cümleler belirler.\n\nBu dört cümle sorunu çözmez; ama konuşmanın kavgaya dönmesini yavaşlatır ve ikinizin de düşünebileceği bir alan açar.\n\nHangisini söylemek size daha zor geliyor? Yorumlarda yazabilirsiniz.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Tartışma cümleleri",
+   "alt_text": "Tartışmayı büyütmeyen dört cümle listesi."
+  },
+  {
+   "id": "day03-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-11T09:30:00Z",
+   "image": "media/stories/birsen_story_03.jpg",
+   "caption": "",
+   "topic": "Hikâye: Günün notu – Sorunsuz ilişki yoktur."
+  },
+  {
+   "id": "day03-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-11T16:00:00Z",
+   "image": "media/posts/birsen_post_03.jpg",
+   "caption": "Çiftler bana sıklıkla \"Bizim sorunumuz çok\" diyerek gelir. Oysa asıl yorucu olan sorunların varlığı değil, sorunla karşılaştığınızda birbirinizi karşı tarafa koymanızdır.\n\n\"Sen ve ben\" yerine \"biz ve bu sorun\" diyebildiğinizde, aynı konu bambaşka konuşulmaya başlar.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Söz: sorunu karşınıza alın",
+   "alt_text": "Kırmızı montlu Birsen Demir ve 'Önemli olan partnerinizi değil sorunu birlikte karşınıza alabilmek' sözü."
+  },
+  {
+   "id": "day04-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-12T09:30:00Z",
+   "image": "media/stories/birsen_story_04.jpg",
+   "caption": "",
+   "topic": "Hikâye: Küçük bir hatırlatma – Konu değişir, ihtiyaç aynı kalır."
+  },
+  {
+   "id": "day04-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-12T16:00:00Z",
+   "image": "media/posts/birsen_post_04.jpg",
+   "caption": "\"Bulaşıklar\", \"geç kalmak\", \"annen\"… Başlık değişir ama kavga hep aynı yere varır.\n\nÇift çalışmasında konuya değil, o tekrar eden döngüye bakarız: Kim neyi duymadığını düşünüyor, kim hangi anda geri çekiliyor?\n\nDöngüyü görmek, onu kırmanın ilk adımıdır.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Tekrar eden kavgalar",
+   "alt_text": "Aynı kavganın neden tekrar ettiğini anlatan üç maddelik kart."
+  },
+  {
+   "id": "day05-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-13T09:30:00Z",
+   "image": "media/stories/birsen_story_05.jpg",
+   "caption": "",
+   "topic": "Hikâye: Size soruyoruz – Destek almayı düşünüp ertelediğiniz oldu mu?"
+  },
+  {
+   "id": "day05-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-13T16:00:00Z",
+   "image": "media/posts/birsen_post_05.jpg",
+   "caption": "Pek çok çift desteği, işler artık çok yıprandığında arar. Oysa sorunlar erken konuşulduğunda hem daha az kırgınlık birikir hem de çalışma çoğu zaman daha kısa sürer.\n\nYardım istemek bir zayıflık değil, ilişkiye yapılan bir yatırımdır.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "6 yıl",
+   "alt_text": "Büyük '6 yıl' rakamı: çiftlerin destek almadan önce sorunlarına katlandığı ortalama süre."
+  },
+  {
+   "id": "day06-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-14T09:30:00Z",
+   "image": "media/stories/birsen_story_06.jpg",
+   "caption": "",
+   "topic": "Hikâye: Bu akşam – Telefonlar başka odada."
+  },
+  {
+   "id": "day06-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-14T16:00:00Z",
+   "image": "media/posts/birsen_post_06.jpg",
+   "caption": "Birçok çift aynı evde yaşayıp birbirinin gününden habersiz kalır.\n\nBu küçük alıştırma, \"konuşmuyoruz\" hissini azaltmanın en basit yollarından biri. Bir hafta deneyin, sonra neyin değiştiğini birlikte konuşun.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Akşam sohbeti alıştırması",
+   "alt_text": "Çiftler için 10 dakikalık akşam sohbeti alıştırmasının dört adımı."
+  },
+  {
+   "id": "day07-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-15T09:30:00Z",
+   "image": "media/stories/birsen_story_07.jpg",
+   "caption": "",
+   "topic": "Hikâye: Ön görüşme – Çift · Aile · Bireysel"
+  },
+  {
+   "id": "day07-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-15T16:00:00Z",
+   "image": "media/posts/birsen_post_07.jpg",
+   "caption": "Çift terapisinde amaç kimin haklı olduğunu bulmak değildir. Amaç, ikinizin de duyulduğu ve birlikte düşünebildiği bir alan kurmaktır.\n\nGörüşmeler İstanbul'da yüz yüze ya da online yapılabilir. İlk görüşmede başvuru nedeninizi ve beklentilerinizi birlikte netleştiririz.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Hizmet: çift terapisi",
+   "alt_text": "Çift terapisi hizmet kartı ve Birsen Demir'in portresi."
+  },
+  {
+   "id": "day08-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-16T09:30:00Z",
+   "image": "media/stories/birsen_story_08.jpg",
+   "caption": "",
+   "topic": "Hikâye: Günün notu – Susmak bazen en yüksek sestir."
+  },
+  {
+   "id": "day08-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-16T16:00:00Z",
+   "image": "media/posts/birsen_post_08.jpg",
+   "caption": "Destek almak için ilişkinin bitme noktasına gelmesini beklemek gerekmiyor.\n\nBu maddelerden biri ya da birkaçı size tanıdık geliyorsa, bir ön görüşmeyle neye ihtiyacınız olduğunu birlikte konuşabiliriz.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Ne zaman başvurmalı",
+   "alt_text": "Çift terapisine ne zaman başvurulması gerektiğini gösteren beş maddelik kontrol listesi."
+  },
+  {
+   "id": "day09-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-17T09:30:00Z",
+   "image": "media/stories/birsen_story_09.jpg",
+   "caption": "",
+   "topic": "Hikâye: Size soruyoruz – Terapiye gitmek size ne düşündürüyor?"
+  },
+  {
+   "id": "day09-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-17T16:00:00Z",
+   "image": "media/posts/birsen_post_09.jpg",
+   "caption": "\"Terapiye gidiyorsak bitmişiz demektir\" düşüncesi, birçok çiftin yardım istemesini geciktiriyor.\n\nOysa danışmanlık bir onarım olduğu kadar bir bakım da olabilir: Çocuk sonrası değişen dengeler, taşınma, iş değişikliği gibi dönemlerde birlikte yol almayı kolaylaştırır.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Yanlış bilinen: son çare",
+   "alt_text": "Yanlış bilinen: terapi son çaredir. Gerçek: destek en çok erken alındığında işe yarar."
+  },
+  {
+   "id": "day10-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-18T09:30:00Z",
+   "image": "media/stories/birsen_story_10.jpg",
+   "caption": "",
+   "topic": "Hikâye: Küçük bir hatırlatma – Kendin olmak, ilişkiye engel değil."
+  },
+  {
+   "id": "day10-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-18T16:00:00Z",
+   "image": "media/posts/birsen_post_10.jpg",
+   "caption": "İlişkide sürekli kendini küçültmek, susmak ya da başka biri gibi davranmak bir süre işe yarıyor gibi görünebilir. Ama zamanla bu, öfkeye ya da uzaklaşmaya dönüşür.\n\nYakınlık, iki kişinin de kendisi olarak orada durabildiği yerde büyür.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Söz: kendin olmak",
+   "alt_text": "Gülen Birsen Demir'in portresi ve 'Kişiliğinizden ödün vererek sürdürülebilir bir ilişki kuramazsınız' sözü."
+  },
+  {
+   "id": "day11-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-19T09:30:00Z",
+   "image": "media/stories/birsen_story_11.jpg",
+   "caption": "",
+   "topic": "Hikâye: Size soruyoruz – Eşiniz terapiye gelmek istemiyor mu?"
+  },
+  {
+   "id": "day11-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-19T16:00:00Z",
+   "image": "media/posts/birsen_post_11.jpg",
+   "caption": "En sık duyduğum cümlelerden biri: \"Ben gelmek istiyorum ama eşim istemiyor.\"\n\nPartnerinizin çekinceleri çoğu zaman suçlanma korkusundan gelir. Görüşmenin bir yargılama değil, ikinizin de duyulduğu bir alan olduğunu bilmek kararını kolaylaştırabilir. Siz yine de ilk adımı atabilirsiniz.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Eşim gelmek istemiyor",
+   "alt_text": "Eşi terapiye gelmek istemeyenler için dört öneri."
+  },
+  {
+   "id": "day12-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-20T09:30:00Z",
+   "image": "media/stories/birsen_story_12.jpg",
+   "caption": "",
+   "topic": "Hikâye: Bugün 19:00 – İlk görüşmede ne olur?"
+  },
+  {
+   "id": "day12-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-20T16:00:00Z",
+   "image": "media/posts/birsen_post_12.jpg",
+   "caption": "İlk görüşme çoğu kişi için en zor adım. Ne anlatacağını, nereden başlayacağını bilememek çok doğal.\n\nİlk görüşmede sizden hazırlıklı gelmenizi beklemem. Birlikte konuşur, neye ihtiyacınız olduğunu netleştiririz. Paylaştığınız her şey gizli kalır.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #psikolojikdestek #istanbul #onlineterapi #sağlıklıilişkiler",
+   "topic": "İlk görüşme",
+   "alt_text": "İlk görüşmenin üç adımı: tanışma, kalıbı görme, yol haritası."
+  },
+  {
+   "id": "day13-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-21T09:30:00Z",
+   "image": "media/stories/birsen_story_13.jpg",
+   "caption": "",
+   "topic": "Hikâye: Bu hafta – \"Sen hep…\" yerine"
+  },
+  {
+   "id": "day13-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-21T16:00:00Z",
+   "image": "media/posts/birsen_post_13.jpg",
+   "caption": "\"Sen hep…\", \"Sen hiç…\" ile başlayan cümleler karşı tarafı savunmaya iter. Savunmaya geçen kişi de dinleyemez.\n\n\"Ben\" ile başlayan bir cümle aynı derdi anlatır ama suçlamadan. Bu hafta bir kez bile denemek fark yaratır.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Ben dili",
+   "alt_text": "Suçlayan 'sen' dili yerine 'ben' dili kullanma alıştırması."
+  },
+  {
+   "id": "day14-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-22T09:30:00Z",
+   "image": "media/stories/birsen_story_14.jpg",
+   "caption": "",
+   "topic": "Hikâye: Aile danışmanlığı – Bir kişinin zorluğu, bütün ailenin sesidir."
+  },
+  {
+   "id": "day14-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-22T16:00:00Z",
+   "image": "media/posts/birsen_post_14.jpg",
+   "caption": "Bir çocuğun okulda zorlanması, bir ergenin içine kapanması ya da evdeki sürekli gerginlik… Bunlar çoğu zaman tek bir kişinin değil, ailenin bütününün yaşadığı bir şeyin işaretidir.\n\nAile danışmanlığında herkesin sesinin duyulduğu bir alan kurarız.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ebeveynlik #ailedeiletişim #çocukgelişimi #ergenlik #aileilişkileri",
+   "topic": "Hizmet: aile danışmanlığı",
+   "alt_text": "Aile danışmanlığı hizmet kartı ve Birsen Demir'in portresi."
+  },
+  {
+   "id": "day15-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-23T09:30:00Z",
+   "image": "media/stories/birsen_story_15.jpg",
+   "caption": "",
+   "topic": "Hikâye: Ebeveynlere – Ergen çocuğunuzla en rahat nerede konuşuyorsunuz?"
+  },
+  {
+   "id": "day15-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-23T16:00:00Z",
+   "image": "media/posts/birsen_post_15.jpg",
+   "caption": "Ergenlik döneminde iletişim kopmuş gibi görünebilir. Oysa çoğu zaman genç, konuşmak için doğru zamanı ve doğru tonu bekler.\n\nYüz yüze, sorgu gibi geçen konuşmalar yerine yan yana yapılan sohbetler çok daha rahat akar.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ebeveynlik #ailedeiletişim #çocukgelişimi #ergenlik #aileilişkileri",
+   "topic": "Ergenle iletişim",
+   "alt_text": "Ergenle konuşurken dört adım."
+  },
+  {
+   "id": "day16-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-24T09:30:00Z",
+   "image": "media/stories/birsen_story_16.jpg",
+   "caption": "",
+   "topic": "Hikâye: Günün notu – Aynı düşünmek zorunda değilsiniz."
+  },
+  {
+   "id": "day16-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-24T16:00:00Z",
+   "image": "media/posts/birsen_post_16.jpg",
+   "caption": "Evlilikte hiç anlaşmazlık olmaması mümkün değil. İki farklı insan, iki farklı aile, iki farklı geçmiş…\n\nBirlikte düşünebildiğiniz sürece anlaşmazlıkların da üstesinden birlikte gelebilirsiniz.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Söz: birlikte düşünmek",
+   "alt_text": "Birsen Demir'in portresi ve 'Amaç aynı düşünmek değil, birlikte düşünebilmeyi öğrenmektir' sözü."
+  },
+  {
+   "id": "day17-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-25T09:30:00Z",
+   "image": "media/stories/birsen_story_17.jpg",
+   "caption": "",
+   "topic": "Hikâye: Küçük bir hatırlatma – Kavga etmek değil,"
+  },
+  {
+   "id": "day17-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-25T16:00:00Z",
+   "image": "media/posts/birsen_post_17.jpg",
+   "caption": "Hiç tartışmayan çiftler bazen en çok şeyi bastıran çiftlerdir.\n\nSağlıklı ilişkiyi belirleyen, kavganın olmaması değil; kavgadan sonra özür dileyebilmek, yeniden yakınlaşabilmek ve aynı konuyu bir dahaki sefere daha iyi konuşabilmektir.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Yanlış bilinen: kavga",
+   "alt_text": "Yanlış bilinen: iyi çiftler kavga etmez. Gerçek: önemli olan onarabilmek."
+  },
+  {
+   "id": "day18-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-26T09:30:00Z",
+   "image": "media/stories/birsen_story_18.jpg",
+   "caption": "",
+   "topic": "Hikâye: Size soruyoruz – Ailelerle sınır koymak sizin için ne kadar zor?"
+  },
+  {
+   "id": "day18-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-26T16:00:00Z",
+   "image": "media/posts/birsen_post_18.jpg",
+   "caption": "Kayınvalide, kayınpeder, kardeşler… Geniş aile ilişkileri evliliğin en hassas konularından biri.\n\nSınır koymak aileye sevgisizlik değildir. Çiftin kendi kararlarını birlikte alabilmesi, hem evliliği hem de aileyle ilişkiyi korur.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Ailelerle sınır",
+   "alt_text": "Geniş aileyle sınır koymak için dört öneri."
+  },
+  {
+   "id": "day19-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-27T09:30:00Z",
+   "image": "media/stories/birsen_story_19.jpg",
+   "caption": "",
+   "topic": "Hikâye: Bugün 19:00 – Danışanlarımın geri bildirimi"
+  },
+  {
+   "id": "day19-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-27T16:00:00Z",
+   "image": "media/posts/birsen_post_19.jpg",
+   "caption": "Danışanlarımın Armut.com üzerinden verdiği geri bildirimler için çok teşekkür ederim. 2022 Armut Hizmet Veren Belgesi ve 5.0 hizmet puanı, bu yolda birlikte yürüdüğüm insanların güveninin bir yansıması.\n\nHer görüşmede aynı özen ve gizlilikle.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #psikolojikdestek #istanbul #onlineterapi #sağlıklıilişkiler",
+   "topic": "Armut 5.0",
+   "alt_text": "Armut.com 5.0 hizmet puanı ve 2022 Hizmet Veren Belgesi."
+  },
+  {
+   "id": "day20-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-28T09:30:00Z",
+   "image": "media/stories/birsen_story_20.jpg",
+   "caption": "",
+   "topic": "Hikâye: Bu hafta – Öfke yükselince: \"Mola.\""
+  },
+  {
+   "id": "day20-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-28T16:00:00Z",
+   "image": "media/posts/birsen_post_20.jpg",
+   "caption": "Öfke yükseldiğinde düşünmek zorlaşır. O anda söylenen sözler de genellikle en çok yaralayanlar olur.\n\nMola, konuşmadan kaçmak değildir; geri dönme sözüyle verilen kısa bir aradır.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Mola alıştırması",
+   "alt_text": "Tartışmada mola vermenin dört adımı."
+  },
+  {
+   "id": "day21-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-29T09:30:00Z",
+   "image": "media/stories/birsen_story_21.jpg",
+   "caption": "",
+   "topic": "Hikâye: Bireysel görüşme – Değişim bazen sizden başlar."
+  },
+  {
+   "id": "day21-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-29T16:00:00Z",
+   "image": "media/posts/birsen_post_21.jpg",
+   "caption": "Bazen değişim ilişkinin bütününden değil, sizden başlar. Kendi ihtiyaçlarınızı, sınırlarınızı ve tekrar eden ilişki kalıplarınızı fark etmek hem kendinize hem ilişkilerinize iyi gelir.\n\nBireysel görüşmeler yüz yüze ya da online yapılabilir.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #kişiselgelişim #sınırkoymak #farkındalık #bireyseldanışmanlık",
+   "topic": "Hizmet: bireysel görüşme",
+   "alt_text": "Bireysel görüşme hizmet kartı ve Birsen Demir'in portresi."
+  },
+  {
+   "id": "day22-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-11-30T09:30:00Z",
+   "image": "media/stories/birsen_story_22.jpg",
+   "caption": "",
+   "topic": "Hikâye: Ebeveynlere – Çocuğunuza zor bir haberi nasıl verirsiniz?"
+  },
+  {
+   "id": "day22-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-11-30T16:00:00Z",
+   "image": "media/posts/birsen_post_22.jpg",
+   "caption": "Boşanma çocuk için bir kayıp ve büyük bir belirsizliktir. Nasıl anlatıldığı, çocuğun bu süreci nasıl taşıyacağını etkiler.\n\nEbeveynlerin birbirini suçlamadan, çocuğu taraf yapmadan konuşabilmesi en önemli koruyucudur. Bu süreçte destek almak hem size hem çocuğunuza iyi gelir.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ebeveynlik #ailedeiletişim #çocukgelişimi #ergenlik #aileilişkileri",
+   "topic": "Boşanma ve çocuk",
+   "alt_text": "Boşanmayı çocuğa anlatmak için dört öneri."
+  },
+  {
+   "id": "day23-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-12-01T09:30:00Z",
+   "image": "media/stories/birsen_story_23.jpg",
+   "caption": "",
+   "topic": "Hikâye: Günün notu – Güvenli bir bağ,"
+  },
+  {
+   "id": "day23-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-12-01T16:00:00Z",
+   "image": "media/posts/birsen_post_23.jpg",
+   "caption": "Bağlanmak çoğu zaman özgürlüğü kaybetmek gibi düşünülür. Oysa güvenli bir bağ, insanın dünyaya daha cesur açılabilmesini sağlar.\n\nArkanızda sizi destekleyen biri olduğunu bilmek, yeni şeyleri denemeyi kolaylaştırır.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Söz: bağlanmak ve özgürlük",
+   "alt_text": "Birsen Demir'in portresi ve 'Sağlıklı bir ilişkide çiftler bağlandıkça özgürleşir' sözü."
+  },
+  {
+   "id": "day24-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-12-02T09:30:00Z",
+   "image": "media/stories/birsen_story_24.jpg",
+   "caption": "",
+   "topic": "Hikâye: Kendinize sorun – İlişkinizde en güçlü yan hangisi?"
+  },
+  {
+   "id": "day24-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-12-02T16:00:00Z",
+   "image": "media/posts/birsen_post_24.jpg",
+   "caption": "Mükemmel ilişki yok; ama sağlıklı ilişkinin bazı ortak işaretleri var.\n\nBu listeyi bir puanlama gibi değil, bir sohbet başlangıcı gibi kullanın. Partnerinizle birlikte okuyup her maddeyi konuşmak bile yeni bir kapı açabilir.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Sağlıklı ilişki",
+   "alt_text": "Sağlıklı ilişkinin beş işareti listesi."
+  },
+  {
+   "id": "day25-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-12-03T09:30:00Z",
+   "image": "media/stories/birsen_story_25.jpg",
+   "caption": "",
+   "topic": "Hikâye: Küçük bir hatırlatma – Danışmanın tarafı"
+  },
+  {
+   "id": "day25-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-12-03T16:00:00Z",
+   "image": "media/posts/birsen_post_25.jpg",
+   "caption": "Çiftlerin en büyük çekincelerinden biri: \"Ya o haklı çıkarsa?\"\n\nÇift çalışmasında hakem yoktur. Her iki tarafın deneyimi de gerçektir ve dinlenmeyi hak eder. Bu güven duygusu, sürecin işleyebilmesi için şarttır.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Yanlış bilinen: taraf tutmak",
+   "alt_text": "Yanlış bilinen: danışman taraf tutar. Gerçek: danışmanın tarafı ilişkinin kendisidir."
+  },
+  {
+   "id": "day26-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-12-04T09:30:00Z",
+   "image": "media/stories/birsen_story_26.jpg",
+   "caption": "",
+   "topic": "Hikâye: Güven sarsıldıysa – Acele karar vermeyin."
+  },
+  {
+   "id": "day26-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-12-04T16:00:00Z",
+   "image": "media/posts/birsen_post_26.jpg",
+   "caption": "Güvenin sarsılması, bir ilişkinin yaşayabileceği en zor deneyimlerden biri.\n\nBu dönemde iki taraf da çok farklı duygular yaşar: öfke, utanç, kafa karışıklığı. Ne yapacağınıza karar vermeden önce ne yaşadığınızı anlamaya alan açmak önemlidir.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Güvenin onarımı",
+   "alt_text": "Güven sarsıldığında atılacak dört ilk adım."
+  },
+  {
+   "id": "day27-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-12-05T09:30:00Z",
+   "image": "media/stories/birsen_story_27.jpg",
+   "caption": "",
+   "topic": "Hikâye: Bu hafta – Her gün bir takdir."
+  },
+  {
+   "id": "day27-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-12-05T16:00:00Z",
+   "image": "media/posts/birsen_post_27.jpg",
+   "caption": "Uzun ilişkilerde yapılan iyilikler zamanla görünmez olur, eksikler ise hep göze batar.\n\nTakdiri yüksek sesle söylemek ilişkinin havasını değiştirir. Küçük görünür ama etkisi büyüktür.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #evlilik #iletişim #çiftterapisiistanbul #evliliktavsiyeleri",
+   "topic": "Takdir alıştırması",
+   "alt_text": "Partnerinize her gün bir takdir söyleme alıştırması."
+  },
+  {
+   "id": "day28-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-12-06T09:30:00Z",
+   "image": "media/stories/birsen_story_28.jpg",
+   "caption": "",
+   "topic": "Hikâye: Online görüşme – Türkiye ve yurt dışından"
+  },
+  {
+   "id": "day28-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-12-06T16:00:00Z",
+   "image": "media/posts/birsen_post_28.jpg",
+   "caption": "Şehir dışında, yurt dışında yaşıyorsanız ya da yoğun çalışıyorsanız online görüşme en pratik seçenek olabilir.\n\nOnline görüşmeler yüz yüze görüşmelerle aynı yapı ve gizlilikle yürür. Tek ihtiyacınız sessiz bir oda ve internet bağlantısı.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #psikolojikdestek #istanbul #onlineterapi #sağlıklıilişkiler",
+   "topic": "Online görüşme",
+   "alt_text": "Online görüşme duyurusu ve Birsen Demir'in portresi."
+  },
+  {
+   "id": "day29-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-12-07T09:30:00Z",
+   "image": "media/stories/birsen_story_29.jpg",
+   "caption": "",
+   "topic": "Hikâye: Size soruyoruz – Danışmanlık hakkında en çok neyi merak ediyorsunuz?"
+  },
+  {
+   "id": "day29-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-12-07T16:00:00Z",
+   "image": "media/posts/birsen_post_29.jpg",
+   "caption": "En çok sorulan üç soruyu yanıtladım. Aklınızdaki başka bir soruyu yorumlarda ya da DM'den sorabilirsiniz; gelen sorulara önümüzdeki haftalarda tek tek yer vereceğim.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #psikolojikdestek #istanbul #onlineterapi #sağlıklıilişkiler",
+   "topic": "Sık sorulan sorular",
+   "alt_text": "Sık sorulan üç soru ve cevapları: seans sayısı, gizlilik, online görüşme."
+  },
+  {
+   "id": "day30-story",
+   "platform": "instagram",
+   "kind": "story",
+   "when_utc": "2026-12-08T09:30:00Z",
+   "image": "media/stories/birsen_story_30.jpg",
+   "caption": "",
+   "topic": "Hikâye: Ön görüşme – İlk adım bir mesaj kadar yakın."
+  },
+  {
+   "id": "day30-post",
+   "platform": "instagram",
+   "kind": "feed",
+   "when_utc": "2026-12-08T16:00:00Z",
+   "image": "media/posts/birsen_post_30.jpg",
+   "caption": "Bir ay boyunca ilişkiler, aile ve kendini tanıma üzerine notlar paylaştım. Okuduğunuz, kaydettiğiniz ve paylaştığınız için teşekkür ederim.\n\nBu notlardan biri size dokunduysa ve konuşmak isterseniz, kısa bir ön görüşmeyle başlayabiliriz.\n\n📩 Ön görüşme için WhatsApp: 0533 549 97 53 ya da DM\n📍 İstanbul'da yüz yüze · Türkiye ve yurt dışından online\n\n#ailedanışmanı #çiftterapisi #ailedanışmanlığı #birsendemir #ilişkiler #psikolojikdestek #istanbul #onlineterapi #sağlıklıilişkiler",
+   "topic": "Ön görüşme çağrısı",
+   "alt_text": "Birsen Demir'in portresi ve 'İlk adımı atmak için hazır mısınız?' ön görüşme çağrısı."
+  }
+ ]
+}
